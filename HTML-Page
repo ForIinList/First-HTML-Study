@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+  <title>Emre Yaz</title>
+
+  </head>
+<body style="color:brown; background-color: yellowgreen">
+  
+  <h1>İbrahim Emre Yaz</h1>
+  <br>
+  <br>
+  <br>
+  <h3>About Me</h3>
+  <div>
+    <p style="font-size: 16px;font-family: 'Times New Roman', Times, serif;font-weight: bold;">I born in 1999. I was always curious about 
+      technology. I dreamed about creating robots or writing codes. Even though I can not create robots, I learned coding.</p>
+      <br>
+      <p style="font-size: 16px;font-family: 'Times New Roman', Times, serif;font-weight: bold;">And this is my first web page.</p>
+  </div>
+  
+  </body>
+</html>
