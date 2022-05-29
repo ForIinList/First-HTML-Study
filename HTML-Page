@@ -12,8 +12,11 @@
   <br>
   <h3>About Me</h3>
   <div>
-    <p style="font-size: 16px;font-family: 'Times New Roman', Times, serif;font-weight: bold;">I born in 1999. I was always curious about 
-      technology. I dreamed about creating robots or writing codes. Even though I can not create robots, I learned coding.</p>
+    <p style="font-size: 16px;font-family: 'Times New Roman', Times, serif;font-weight: bold;">I born in 1999. I was always 
+      curious about technology. I dreamed about creating robots or writing codes. Even though I can not create robots, 
+      I learned coding.</p>
+      <br>
+      <img src="https://d27jswm5an3efw.cloudfront.net/app/uploads/2019/07/insert-image-html-2-768x304.jpg">
       <br>
       <p style="font-size: 16px;font-family: 'Times New Roman', Times, serif;font-weight: bold;">And this is my first web page.</p>
   </div>
